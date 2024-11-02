@@ -1,0 +1,6 @@
+# Ignore all directories
+*/
+
+# Optionnel : Ignore certains fichiers spécifiques (comme .DS_Store, Thumbs.db, etc.)
+.DS_Store
+Thumbs.db
